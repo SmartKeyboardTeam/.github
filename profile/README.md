@@ -21,6 +21,7 @@
 
 При запуске приложения на flutter, запускается фоновая задача. При нажатии "Open" в меню иконки приложения на панели задач, запускается приложение на flutter.
 ## Репозитории организации
+- smart_keyboard - собранное приложение (под Windows)
 - smart_keyboard_arduino - прошивка Arduino
 - smart_keyboard_pc - фронтенд
 - smart_keyboard_background_task - фоновая задача
